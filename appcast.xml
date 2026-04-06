@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle" xmlns:dc="http://purl.org/dc/elements/1.1/">
+  <channel>
+    <title>Vexi Voice Updates</title>
+    <description>Auto-update feed for Vexi Voice</description>
+    <language>en</language>
+    <!-- Items will be added by CI/CD when releases are published -->
+  </channel>
+</rss>
