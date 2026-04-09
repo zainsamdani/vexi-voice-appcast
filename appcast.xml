@@ -5,14 +5,14 @@
     <description>Auto-update feed for Vexi Voice</description>
     <language>en</language>
     <item>
-      <title>Version 1.0.3</title>
-      <sparkle:version>5</sparkle:version>
-      <sparkle:shortVersionString>1.0.3</sparkle:shortVersionString>
-      <pubDate>Thu, 09 Apr 2026 12:02:15 +0000</pubDate>
+      <title>Version 1.0.4</title>
+      <sparkle:version>8</sparkle:version>
+      <sparkle:shortVersionString>1.0.4</sparkle:shortVersionString>
+      <pubDate>Wed, 09 Apr 2026 15:45:00 +0000</pubDate>
       <sparkle:minimumSystemVersion>26.0</sparkle:minimumSystemVersion>
-      <enclosure url="https://github.com/zainsamdani/Vexi-Voice/releases/download/v1.0.3/VexiVoice.zip"
-                 sparkle:edSignature=""
-                 length="14357123"
+      <enclosure url="https://github.com/zainsamdani/Vexi-Voice/releases/download/v1.0.4/VexiVoice.zip"
+                 sparkle:edSignature="Ii1BS4fpDBEXOXP8L+Kh8l4PFYIvgWBQoNWrc9M9MkktF4WqZkx9Nqt87K7RYJeR+NmsBuD6e/q/kZQTUh5VDw=="
+                 length="14263634"
                  type="application/octet-stream" />
     </item>
   </channel>
