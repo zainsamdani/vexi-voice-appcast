@@ -4,6 +4,16 @@
     <title>Vexi Voice Updates</title>
     <description>Auto-update feed for Vexi Voice</description>
     <language>en</language>
-    <!-- Items will be added by CI/CD when releases are published -->
+    <item>
+      <title>Version 1.0.1</title>
+      <sparkle:version>3</sparkle:version>
+      <sparkle:shortVersionString>1.0.1</sparkle:shortVersionString>
+      <pubDate>Thu, 09 Apr 2026 07:18:42 +0000</pubDate>
+      <sparkle:minimumSystemVersion>26.0</sparkle:minimumSystemVersion>
+      <enclosure url="https://github.com/zainsamdani/Vexi-Voice/releases/download/v1.0.1/VexiVoice.zip"
+                 sparkle:edSignature=""
+                 length="14346920"
+                 type="application/octet-stream" />
+    </item>
   </channel>
 </rss>
